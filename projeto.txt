@@ -3,3 +3,5 @@
 Novas descrições
 
 Nova att
+
+Git checkout
